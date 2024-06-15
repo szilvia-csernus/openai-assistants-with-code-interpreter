@@ -1,6 +1,8 @@
-# UNDER CONSTRUCTION!! - Maths Tutor AI Assistant
+# OpenAI Assistants API with Code Interpreter
 
+> Notebooks for Maths Tutor and Mortgage Calculator
 
+With the help of the Code Interpreter tool, the assistant can give accurate answers to questions which would be inaccurate by using the Chat Completion GPT on its own.
 ---
 
 ## How to run this project?
@@ -42,6 +44,8 @@
 7. Run Jupyter Notebook:
 
    `jupyter notebook`
+
+8. In the notebook, run the code snippets in the given/desired order.
 
 
 ## Credits
