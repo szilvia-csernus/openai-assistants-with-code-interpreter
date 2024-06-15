@@ -2,7 +2,9 @@
 
 > Notebooks for Maths Tutor and Mortgage Calculator
 
-With the help of the Code Interpreter tool, the assistant can give accurate answers to questions which would be inaccurate by using the Chat Completion GPT on its own.
+
+With the help of the Code Interpreter tool, the assistant can give accurate answers to questions which would be inaccurate by using the Chat Completion GPT on its own. This project shows two examples for this usecase.
+
 ---
 
 ## How to run this project?
